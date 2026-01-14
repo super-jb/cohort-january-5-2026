@@ -22,7 +22,3 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
-
-
-# Cohort Only - Not recommended for production
-package-lock.json
